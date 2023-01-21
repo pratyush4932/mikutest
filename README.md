@@ -13,7 +13,7 @@
 
 <br>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/C_B2P7)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/PY4QSL?referralCode=8JXtNO)
 
 # Notice Guys
 
